@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: bookManagementSystem
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: MD Nowman
+Implementation-Vendor-Id: com.nwn.bms
+Build-Jdk: 1.8.0_221
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
